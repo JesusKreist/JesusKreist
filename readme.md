@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/TYf1yTy/Webp-profile-image-1.jpg" width="600" height="400"></p>
+<p align="center"><img src="https://i.ibb.co/TYf1yTy/Webp-profile-image-1.jpg"></p>
 <br>
 <h1 align="left">Hi 👋, I'm Ude Samuel</h1>
 <h3 align="left">A developer, anime lover, pythonista, black dude, manga reader, Calebcity subscriber, MMA lover, Francis Ngannou #1 fan, avid anime watcher, christian, millionaire in training, photographer, bodybuilder, African, touch-and-go german speaker, ramen noodles lover, full loaf of bread per day eater, meat eater, omnivore, highjumper, gamer.</h3>
