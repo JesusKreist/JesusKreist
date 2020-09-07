@@ -1,7 +1,7 @@
 
 ![Image of me](https://i.ibb.co/fxkYChz/Webp-net-profile-handrail-1.jpg)
 <br>
-<h1 align="left">Hi 👋, I'm Sam</h1>
+<h1 align="left">Hi 👋, I'm Sam.</h1>
 <h3 align="left">A developer, anime lover, pythonista, black dude, manga reader, Calebcity subscriber, MMA lover, Francis Ngannou #1 fan, avid anime watcher, christian, millionaire in training, photographer, bodybuilder, African, touch-and-go german speaker, ramen noodles lover, full loaf of bread per day eater, meat eater, omnivore, highjumper, gamer.</h3>
 
 <br>
