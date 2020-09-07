@@ -1,6 +1,5 @@
 
-![Image of me](https://i.ibb.co/2kqjSdk/Webp-net-profile-handrail.jpg)
-<p align="center"><img src="https://i.ibb.co/2kqjSdk/Webp-net-profile-handrail.jpg"></p>
+![Image of me](https://i.ibb.co/fxkYChz/Webp-net-profile-handrail-1.jpg)
 <br>
 <h1 align="left">Hi 👋, I'm Ude Samuel</h1>
 <h3 align="left">A developer, anime lover, pythonista, black dude, manga reader, Calebcity subscriber, MMA lover, Francis Ngannou #1 fan, avid anime watcher, christian, millionaire in training, photographer, bodybuilder, African, touch-and-go german speaker, ramen noodles lover, full loaf of bread per day eater, meat eater, omnivore, highjumper, gamer.</h3>
@@ -8,7 +7,7 @@
 <br>
 - 🔭 I’m currently working on learning react and practising my frontend skills, whilst increasing my [python](http://google.com) game.
 
-- 🌱 I’m currently learning **react.js and solving python tasks @pybite.es**
+- 🌱 I’m currently learning **react.js and solving python tasks @pybit.es**
 
 - 👯 I’m looking to collaborate on **python projects.**
 
