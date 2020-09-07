@@ -4,7 +4,7 @@
 <h3 align="left">A developer, anime lover, pythonista, black dude, manga reader, Calebcity subscriber, MMA lover, Francis Ngannou #1 fan, avid anime watcher, christian, millionaire in training, photographer, bodybuilder, African, touch-and-go german speaker, ramen noodles lover, full loaf of bread per day eater, meat eater, omnivore, highjumper, gamer.</h3>
 
 <br>
-- 🔭 I’m currently working on [learning react and practising my frontend skills, whilst increasing my python game.](http://127.0.0.1)
+- 🔭 I’m currently working on [learning react and practising my frontend skills, whilst increasing my python game.](http://google.com)
 
 
 - 🌱 I’m currently learning **react.js and solving python tasks @pybite.es**
