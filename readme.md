@@ -1,5 +1,5 @@
 
-[Image of me](https://i.ibb.co/2kqjSdk/Webp-net-profile-handrail.jpg)
+![Image of me](https://i.ibb.co/2kqjSdk/Webp-net-profile-handrail.jpg)
 <p align="center"><img src="https://i.ibb.co/2kqjSdk/Webp-net-profile-handrail.jpg"></p>
 <br>
 <h1 align="left">Hi 👋, I'm Ude Samuel</h1>
