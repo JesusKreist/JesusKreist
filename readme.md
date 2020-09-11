@@ -13,13 +13,13 @@
 
 - 🤝 I’m also looking for help with **practising my german.**
 
-- 💬 Ask me about **html, css, js, python, linux from 01-11-2020, react**
+- 💬 Ask me about **html, css, js, python, linux and from 01-11-2020, react.**
 
 - 📫 How to reach me **salmosine@gmail.com**
 
-- ⚡ Fun fact **Naruto > Naruto Shippuden**
+- ⚡ Fun fact: **Naruto > Naruto Shippuden.**
 
-- 🤔 **If poison expires, does it become more potent?**
+- 🤔 **If poison expires, does it become more or less potent?**
 
 <br>
 
