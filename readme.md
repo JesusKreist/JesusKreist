@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **Naruto > Naruto Shippuden.**
 
-- 🤔 **If poison expires, does it become more or less potent?**
+- 🤔 Trivia Question: **If poison expires, does it become more or less potent?**
 
 <br>
 
