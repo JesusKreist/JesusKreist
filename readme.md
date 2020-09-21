@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **html, css, js, python, linux and from 01-11-2020, react.**
 
-- 📫 How to reach me **salmosine@gmail.com**
+- 📫 How to reach me? **see links below**
 
-- ⚡ Fun fact: **Naruto > Naruto Shippuden.**
+- ⚡ Fun fact: **Naruto > Naruto Shippuden**
 
 - 🤔 Trivia Question: **If poison expires, does it become more or less potent?**
 
